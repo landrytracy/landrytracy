@@ -13,7 +13,6 @@ Im a beginner looking forward to learning more about Html/css and web developmen
 
 ## friend
 Each and every one should have someone to relly on, especially in times of hardship
-
 ### movie link
 1. [after](https://www.youtube.com/watch?v=g99KPOpqZ4Q "after")
 2. [star](https://www.youtube.com/watch?v=T2snL9QUIZI "star")
